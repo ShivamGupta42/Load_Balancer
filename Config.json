@@ -1,0 +1,21 @@
+{
+  "port": 1994 ,
+  "backends": [
+    {
+      "host": "localhost",
+      "port": "8081"
+    },
+    {
+      "host": "localhost",
+      "port": "8082"
+    },
+    {
+      "host": "localhost",
+      "port": "8083"
+    },
+    {
+      "host": "localhost",
+      "port": "8084"
+    }
+  ]
+}
